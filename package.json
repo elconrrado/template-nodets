@@ -28,13 +28,13 @@
   "dependencies": {
     "@hapi/joi": "^15.1.0",
     "@types/hapi__joi": "^15.0.2",
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "dotenv": "^8.0.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-fileupload": "^1.1.5",
     "inversify": "^5.0.1",
     "inversify-binding-decorators": "^4.0.0",
-    "inversify-express-utils": "^6.3.2",
+    "inversify-express-utils": "^6.4.3",
     "module-alias": "^2.2.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^6.5.2"
